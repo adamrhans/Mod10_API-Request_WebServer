@@ -1,0 +1,13 @@
+Here are two base commands to make a new project in strapi and to run it on localhost:1337
+
+npx create-strapi-app@latest <project_name> --quickstart
+
+This will create everything needed to get started with strap api creation. 
+
+To launch strapi, from the project folder, create a new terminal window by right clicking and choosing New Terminal Window from folder. Paste the following command in the terminal window. 
+
+nom run develop
+
+This will initialize that project in strapi.
+
+NOTE: If another instance is running it will occupy port 1337. You will need to shut down all instances of strap and re-run. 
