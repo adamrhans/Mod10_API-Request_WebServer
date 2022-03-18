@@ -2,8 +2,8 @@
 ---
 #### Data Engineering Tools Used:
 - Using Docker to create a container to run Strapi on port 1337.
-- Creating an API with Strapi
-- Sending GET request and POST request to that API using POSTMAN
+- Creating an API with [Strapi](https://strapi.io)
+- Sending GET request and POST request to that API using [POSTMAN](https://www.postman.com/)
 - Creating a Python project that will communicate with the Web Server on our Local Machine
 
 #### Overview:
